@@ -1,7 +1,7 @@
 <h1 align="left">Piyush Patel</h1>
 <h4 align="left">A passionate frontend developer from India</h4>
 
--  I am currently working on **[Tridion Sites](https://www.rws.com/content-management/tridion/sites/) **, **[Fonto](https://www.fontoxml.com/)**
+-  I am currently working on [Tridion Sites](https://www.rws.com/content-management/tridion/sites/) **, [Fonto](https://www.fontoxml.com/)**
 - How to reach me **piyushpatel2053@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
